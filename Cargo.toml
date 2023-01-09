@@ -1,6 +1,6 @@
 [package]
 name = "mempool_rust"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 description = "A Rust library for the Mempool bitcoin API"
 documentation = "https://docs.rs/mempool_rust"

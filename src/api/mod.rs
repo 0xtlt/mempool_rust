@@ -1,4 +1,4 @@
-mod blocks;
+pub mod blocks;
 
 impl crate::MempoolClient {
     pub async fn make_get(&self, endpoint: &str) -> Result<String, crate::MempoolError> {
